@@ -32,4 +32,5 @@ Analysis performed on data containing the following information
   - quandl
   - statsmodels.api
 ## Tableau Storyboard
+This story board does not cover all the steps of analysis, but rather that steps for communicting insights
 https://public.tableau.com/shared/TH79HCGF2?:display_count=n&:origin=viz_share_link
